@@ -13,6 +13,7 @@ gem 'bootstrap-sass', '~> 3.2.0.2'
 gem 'jquery-rails'
 gem 'paperclip'
 gem 'masonry-rails'
+gem 'acts_as_votable', '~> 0.11.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.6'
